@@ -1,1 +1,1 @@
-# chromium-
+简单阅读分析chromium代码，平台相关代码只包括windows和linux。
